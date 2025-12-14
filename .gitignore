@@ -1,0 +1,13 @@
+# Secrets
+.streamlit/secrets.toml
+
+# Local DB
+*.sqlite
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
